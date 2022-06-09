@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "share2care-5770a",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
