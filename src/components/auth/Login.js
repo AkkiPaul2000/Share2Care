@@ -40,17 +40,15 @@ function Login() {
     <div className="login">
       <div className="login__container">
         <div className="login__logo">
-          <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Quora_logo_2015.svg/250px-Quora_logo_2015.svg.png"
-            alt=""
-          />
+        <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2019/05/e8551854-74a9-4c77-b5db-1501280fa66f.gif?auto=format&q=60&fit=max&w=930"alt="logo"/>
+
         </div>
         <div className="login__desc">
           <p>A Place to Share knowledge and better understand the world</p>
           <p style={{ color: "royalblue", fontSize: "25px" }}>
             HandCrafted with ❤️ by{" "}
           </p>
-          <h3>Code With Akky</h3>
+          <h3>Project Group 11</h3>
         </div>
         <div className="login__auth">
           <div className="login__authOptions">
